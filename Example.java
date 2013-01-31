@@ -6,4 +6,6 @@ public final class Example {
 
 	public void method6(){}
 
+	public void method7(){}
+	
 }
